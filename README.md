@@ -12,5 +12,6 @@ Do Files
 Supporting Datasets
 
 • Data to create Figures 3, 4, and 5 come from "TableA2_A3_A4_A5_A6_A7.do" and "TableB_all_and_Figure_B3.do"
+
 • “VariableConstructionReplicationTable.docx” provides details for the geospatial processing of raw data.
 
