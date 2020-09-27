@@ -14,7 +14,7 @@ macro drop _all         // clear all macros
 
 global 	user		C:\Users\`c(username)'
 global	data		"${user}Supporting_Datasets\"
-global 	outputs		"${user}Do_Files\Results"
+global 	outputs		"${user}Code\Results"
 
 cd "${user}"
 use "${data}GLAD_monthly_panel", clear
